@@ -1,0 +1,3 @@
+# aca se colocan los archivos que el git ignora cuando selecciona los archivos que va a comitiar
+.env
+node_modules/
