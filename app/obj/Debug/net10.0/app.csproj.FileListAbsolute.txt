@@ -1,0 +1,15 @@
+C:\Users\jsemunozm\Desktop\prueba\app\bin\Debug\net10.0\app.exe
+C:\Users\jsemunozm\Desktop\prueba\app\bin\Debug\net10.0\app.deps.json
+C:\Users\jsemunozm\Desktop\prueba\app\bin\Debug\net10.0\app.runtimeconfig.json
+C:\Users\jsemunozm\Desktop\prueba\app\bin\Debug\net10.0\app.dll
+C:\Users\jsemunozm\Desktop\prueba\app\bin\Debug\net10.0\app.pdb
+C:\Users\jsemunozm\Desktop\prueba\app\obj\Debug\net10.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsemunozm\Desktop\prueba\app\obj\Debug\net10.0\app.AssemblyInfoInputs.cache
+C:\Users\jsemunozm\Desktop\prueba\app\obj\Debug\net10.0\app.AssemblyInfo.cs
+C:\Users\jsemunozm\Desktop\prueba\app\obj\Debug\net10.0\app.csproj.CoreCompileInputs.cache
+C:\Users\jsemunozm\Desktop\prueba\app\obj\Debug\net10.0\app.sourcelink.json
+C:\Users\jsemunozm\Desktop\prueba\app\obj\Debug\net10.0\app.dll
+C:\Users\jsemunozm\Desktop\prueba\app\obj\Debug\net10.0\refint\app.dll
+C:\Users\jsemunozm\Desktop\prueba\app\obj\Debug\net10.0\app.pdb
+C:\Users\jsemunozm\Desktop\prueba\app\obj\Debug\net10.0\app.genruntimeconfig.cache
+C:\Users\jsemunozm\Desktop\prueba\app\obj\Debug\net10.0\ref\app.dll
